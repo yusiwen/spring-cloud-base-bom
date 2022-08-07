@@ -57,6 +57,13 @@
         <mybatis-plus.version>3.4.3.4</mybatis-plus.version>
         <mybatis-plus-generator.version>3.5.3</mybatis-plus-generator.version>
         <freemarker.version>2.3.31</freemarker.version>
+
+        <!-- Overriding chained dependencies for fixing vulnerabilities -->
+        <spring-framework.version>5.2.20.RELEASE</spring-framework.version>
+        <spring-cloud-netflix.version>2.2.10.RELEASE</spring-cloud-netflix.version>
+        <spring-security-crypto.version>5.3.13.RELEASE</spring-security-crypto.version>
+        <bouncycastle.version>1.67</bouncycastle.version>
+        <nacos-client.version>2.0.4</nacos-client.version>
     </properties>
 
     <dependencyManagement>
