@@ -48,13 +48,13 @@
         <openfeign-dependencies.version>2.2.10.RELEASE</openfeign-dependencies.version>
         <jasypt.version>3.0.4</jasypt.version>
         <nimbus.version>8.23</nimbus.version>
-        <java.websocket.version>1.5.2</java.websocket.version>
+        <java.websocket.version>1.5.3</java.websocket.version>
 
         <jetcache.version>2.5.16</jetcache.version>
 
         <mysql-connector.version>8.0.30</mysql-connector.version>
         <mybatis.version>3.5.7</mybatis.version>
-        <mybatis-plus.version>3.4.3.4</mybatis-plus.version>
+        <mybatis-plus.version>3.5.2</mybatis-plus.version>
         <mybatis-plus-generator.version>3.5.3</mybatis-plus-generator.version>
         <freemarker.version>2.3.31</freemarker.version>
 
@@ -62,8 +62,8 @@
         <spring-framework.version>5.2.20.RELEASE</spring-framework.version>
         <spring-cloud-netflix.version>2.2.10.RELEASE</spring-cloud-netflix.version>
         <spring-security-crypto.version>5.3.13.RELEASE</spring-security-crypto.version>
-        <bouncycastle.version>1.67</bouncycastle.version>
-        <nacos-client.version>2.0.4</nacos-client.version>
+        <bouncycastle.version>1.70</bouncycastle.version>
+        <nacos-client.version>2.1.0</nacos-client.version>
     </properties>
 
     <dependencyManagement>
