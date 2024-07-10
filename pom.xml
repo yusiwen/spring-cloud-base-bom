@@ -43,7 +43,7 @@
     </ciManagement>
 
     <properties>
-        <spring-cloud.version>Hoxton.SR12</spring-cloud.version>
+        <spring-cloud.version>2023.0.3</spring-cloud.version>
         <spring-cloud.alibaba.version>2.2.8.RELEASE</spring-cloud.alibaba.version>
         <openfeign-dependencies.version>2.2.10.RELEASE</openfeign-dependencies.version>
         <jasypt.version>3.0.4</jasypt.version>
