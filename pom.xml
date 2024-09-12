@@ -50,7 +50,7 @@
         <nimbus.version>8.23</nimbus.version>
         <java.websocket.version>1.5.3</java.websocket.version>
 
-        <jetcache.version>2.6.7</jetcache.version>
+        <jetcache.version>2.7.7</jetcache.version>
 
         <mysql-connector.version>8.0.30</mysql-connector.version>
         <mybatis.version>3.5.7</mybatis.version>
