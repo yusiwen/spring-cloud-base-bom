@@ -47,7 +47,7 @@
         <spring-cloud.alibaba.version>2.2.8.RELEASE</spring-cloud.alibaba.version>
         <openfeign-dependencies.version>2.2.10.RELEASE</openfeign-dependencies.version>
         <jasypt.version>3.0.4</jasypt.version>
-        <nimbus.version>8.23</nimbus.version>
+        <nimbus.version>9.41.2</nimbus.version>
         <java.websocket.version>1.5.3</java.websocket.version>
 
         <jetcache.version>2.6.7</jetcache.version>
