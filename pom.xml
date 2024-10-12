@@ -63,7 +63,7 @@
         <spring-cloud-netflix.version>2.2.10.RELEASE</spring-cloud-netflix.version>
         <spring-security-crypto.version>5.3.13.RELEASE</spring-security-crypto.version>
         <bouncycastle.version>1.70</bouncycastle.version>
-        <nacos-client.version>2.1.0</nacos-client.version>
+        <nacos-client.version>2.4.3</nacos-client.version>
     </properties>
 
     <dependencyManagement>
