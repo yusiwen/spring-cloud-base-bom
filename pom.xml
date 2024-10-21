@@ -61,7 +61,7 @@
         <!-- Overriding chained dependencies for fixing vulnerabilities -->
         <spring-framework.version>5.2.20.RELEASE</spring-framework.version>
         <spring-cloud-netflix.version>2.2.10.RELEASE</spring-cloud-netflix.version>
-        <spring-security-crypto.version>5.3.13.RELEASE</spring-security-crypto.version>
+        <spring-security-crypto.version>5.8.15</spring-security-crypto.version>
         <bouncycastle.version>1.70</bouncycastle.version>
         <nacos-client.version>2.1.0</nacos-client.version>
     </properties>
